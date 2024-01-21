@@ -5,5 +5,5 @@ gamerule doLimitedCrafting true
 scoreboard objectives add item_age dummy
 
 # Grant all recipes
-recipe take @s *
+recipe take @a *
 execute as @a run function a07:grant_recipes
