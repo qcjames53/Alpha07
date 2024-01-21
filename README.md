@@ -1,0 +1,2 @@
+# Alpha07
+A Minecraft 1.20 data pack to closely simulate the survival experience of Minecraft Pocket Edition 0.7 (2013). As of now, this includes block drops and crafting rules, with plans to expand functionality to encompass combat.
