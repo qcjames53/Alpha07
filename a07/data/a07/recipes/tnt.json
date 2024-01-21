@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a#a",
+    "#a#",
+    "a#a"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sand"
+    },
+    "a": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "minecraft:tnt",
+    "count": 1
+  }
+}

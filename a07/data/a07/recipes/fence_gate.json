@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a#a",
+    "a#a",
+    "a#a"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "a": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:oak_fence_gate",
+    "count": 1
+  }
+}

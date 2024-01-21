@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "#a"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "a": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:book",
+    "count": 1
+  }
+}

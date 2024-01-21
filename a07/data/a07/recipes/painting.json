@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#a#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "a": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "minecraft:painting",
+    "count": 1
+  }
+}
